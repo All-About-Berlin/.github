@@ -1,6 +1,6 @@
 # All About Berlin
 
-[All About Berlin](https://allaboutberlin.com) is a website that helps people [move to Berlin](https://allaboutberlin.com/guides/moving-to-berlin), [find a job](https://allaboutberlin.com/guides/find-a-job-in-berlin), [find an apartment](https://allaboutberlin.com/guides/find-a-flat-in-berlin), [start their own business](https://allaboutberlin.com/guides/start-a-business-in-germany) and survive German bureaucracy.
+[All About Berlin](https://allaboutberlin.com) is a website that helps people [move to Berlin](https://allaboutberlin.com/guides/moving-to-berlin), [find a job](https://allaboutberlin.com/guides/find-a-job-in-berlin), [find an apartment](https://allaboutberlin.com/guides/find-a-flat-in-berlin), [choose health insurance](https://allaboutberlin.com/guides/german-health-insurance), [start their own business](https://allaboutberlin.com/guides/start-a-business-in-germany) and survive German bureaucracy.
 
 This repository hosts tools built for the website.
 
